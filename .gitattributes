@@ -1,1 +1,3 @@
 * text=auto !eol
+/apertium-oss.oss.acx -text
+/apertium-oss.oss.dix -text
